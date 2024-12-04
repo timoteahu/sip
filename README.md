@@ -1,6 +1,6 @@
 # SIP Neural Networks Project
 
-This repository contains a small project developed as part of the **Science Internship Program (SIP)**. The focus of this project is implementing and experimenting with neural networks, using the MNIST dataset for handwritten digit recognition.
+This repository contains an introductory project developed as part of the **Science Internship Program (SIP)**. The focus of this project is implementing and experimenting with neural networks, using the MNIST dataset for handwritten digit recognition.
 
 ## Overview
 
